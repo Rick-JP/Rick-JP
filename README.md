@@ -1,4 +1,4 @@
-# Rick-JP
-#***Rick Jarren Ponnusamy ***	
-***Hobbiest Self Taught Programmer***
-***October 3, 2007***
+# Rick-JP <br />
+#***Rick Jarren Ponnusamy ***	<br />
+***Hobbiest Self Taught Programmer*** <br />
+***October 3, 2007*** <br />
